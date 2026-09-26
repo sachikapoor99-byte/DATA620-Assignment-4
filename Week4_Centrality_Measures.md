@@ -1,3 +1,6 @@
+**Sachi Kapoor**  
+**DATA 620**  
+**Week Four**
 # Week Four Assignment: Centrality Measures
 
 For this assignment, I would use bill sponsorship and co-sponsorship data from the U.S. Congress. The data is available through the Congress.gov API. I would focus on members of the House of Representatives during the 118th Congress so the network would not become too large.
